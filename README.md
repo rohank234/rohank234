@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rohan 👋
 
-<!--
-**rohank234/rohank234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I design and build things that turn ideas into reality.
 
-Here are some ideas to get you started:
+I'm a software enthusiast who enjoys exploring ideas, solving problems,
+and turning concepts into working software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I'll try to build it, experiment
+with it, and ship it.
+
+My repositories contain experiments, ideas, implementations, and projects
+I've built along the way.
+
+> More ideas are always in the making.
+
+## 🎨 Beyond Code
+
+- 🛠️ Building things
+- 🍳 Cooking
+- 🎬 Anime
+- ☕ Coffee > Tea
+- 🎥 Favorite anime: *Paprika*
